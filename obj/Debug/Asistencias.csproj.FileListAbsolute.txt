@@ -1,0 +1,11 @@
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\bin\Debug\Asistencias.exe.config
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\bin\Debug\Asistencias.exe
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\bin\Debug\Asistencias.pdb
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.csproj.AssemblyReference.cache
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.Properties.Resources.resources
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.csproj.GenerateResource.cache
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.csproj.CoreCompileInputs.cache
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.exe
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.pdb
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.Presentacion.MenuPrincipal.resources
+D:\Trabajos\Web\Udemy\Sistema de asistencias en C# y SQLserver desde 0\Asistencias\obj\Debug\Asistencias.Presentacion.Personal.resources
